@@ -1,0 +1,35 @@
+============================================================
+ИНФОРМАЦИЯ ОБ ОБРАБОТКЕ ДОМЕНА
+============================================================
+
+Домен: plinkocasino-bonus.fr
+Дата обработки: 2026-01-21 17:02:50
+Количество замен localhost: 626
+Изменено файлов: 33
+Осталось localhost: 0
+Статус: processed
+
+Измененные файлы:
+  1. 404.html
+  2. index.html
+  3. index.xml
+  4. robots.txt
+  5. sitemap.xml
+  6. 1win\index.html
+  7. 1win\index.xml
+  8. 1xbet\index.html
+  9. 1xbet\index.xml
+ 10. a-propos-de-nous\index.html
+ 11. a-propos-de-nous\index.xml
+ 12. app\index.html
+ 13. app\index.xml
+ 14. categories\index.html
+ 15. categories\index.xml
+ 16. contacts\index.html
+ 17. contacts\index.xml
+ 18. demo\index.html
+ 19. demo\index.xml
+ 20. jeu-raisonne\index.html
+... и еще 13 файлов
+
+============================================================
